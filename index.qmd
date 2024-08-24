@@ -1,18 +1,26 @@
 ---
-title: "About Me"
+title: "Jose Barajas"
+image: img/me_pizza.JPEG
 about:
-  id: me
-  template: broadside
-  image: img/me_pizza.JPEG
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: "@josbae02"
+      url: https://twitter.com/josebarajas
+    - icon: github
+      text: josebara002
+      url: gttps://github.com/josebara002
 ---
 
 :::{#me}
 
-## Goals
-
-## Education
+## About Me
 
 ## Experience
+
+## Education
 
 :::
 
