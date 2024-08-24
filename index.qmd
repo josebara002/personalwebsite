@@ -2,15 +2,15 @@
 title: "Jose Barajas"
 image: img/me_pizza.JPEG
 about:
-  template: trestles
+  template: broadside
   image-width: 15em
   image-shape: round
   links:
-    - icon: twitter
-      text: "@josbae02"
-      url: https://twitter.com/josebarajas
+    - icon: linkedin
+      text: linkedin
+      url: https://www.linkedin.com/in/josebara/
     - icon: github
-      text: josebara002
+      text: github
       url: gttps://github.com/josebara002
 ---
 
@@ -18,9 +18,32 @@ about:
 
 ## About Me
 
+I'm a data scientist working in vaccines manufacturing where I support and manage data driven projects (in a GMP context) through ETL work, ML modling, data visualizations and (now recently) GenAI. In previous rolls I've worked as an automation engineer in manufacturing supporting MES systems and process automation.
+
+A Long Island NY native, now living in Durham NC since 2020. In my free time I enjoy board games, playing cello in a community orchestra, and playing video games. 
+
+
 ## Experience
+**Merck & Co.**    | Durham, NC <br />\
+Specialist, Data Engineering    | May 2023-Present <br />
+Specialist, Manufacturing Automation    | May 2020-May 2023 <br />
+contractor, Data Scientist    | Janurary 2020-May 2020 <br />
+Intern    | May 2019-Janurary 2020 <br />
+
+**McKesson**    | Cheektowaga, NY <br />
+Central Fill Support Associate    | August 2017-November 2018 <br />
+
+**University at Buffalo**    | Buffalo, NY <br />
+Research Assistant    | May 2013-November 2018 <br />
+
 
 ## Education
+
+State University of New York, at Buffalo    | Buffalo, NY <br />
+MS in Engineering Science (Data Science)    | January 2020
+
+State University of New York, at Buffalo    | Buffalo, NY <br />
+BS in Chemical Engineering *cum laude*    | June 2017
 
 :::
 
