@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Jose Barajas Personal Website"
+  favicon: img/donuts.jpg
   navbar:
     left:
       - href: index.qmd
