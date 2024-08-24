@@ -24,7 +24,7 @@ A Long Island NY native, now living in Durham NC since 2020. In my free time I e
 
 
 ## Experience
-**Merck & Co.**    | Durham, NC <br />\
+**Merck & Co.**    | Durham, NC <br />
 Specialist, Data Engineering    | May 2023-Present <br />
 Specialist, Manufacturing Automation    | May 2020-May 2023 <br />
 contractor, Data Scientist    | Janurary 2020-May 2020 <br />
